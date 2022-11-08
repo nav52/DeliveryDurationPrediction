@@ -3,4 +3,6 @@ scikit-learn
 jupyter
 matplotlib
 seaborn
+statsmodels
+xgboost
 -e .
